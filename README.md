@@ -61,7 +61,7 @@
 **需要开启引用列才可以使用，反之若想禁用拖拽引用，关闭引用列即可** (**The citation column requires to be turned on in the plugin setting for this to work, otherwise if you want to disable drag-and-drop references, just turn off the reference column**.)
 
 <details>
-<summary>演示 (Demonstration)</</summary>
+<summary>演示 (Demonstration)</summary>
 
 ![cite-item-by-drag](https://user-images.githubusercontent.com/51939531/220587000-ce2842cd-8ec5-4f8a-92f3-f78662abb6be.gif)
 
